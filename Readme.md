@@ -1,4 +1,7 @@
-Study note for Coursera Machine Learning:
+Study note for Machine Learning hosted by Stanford University:
+Link to the Course:
+
+<a href="https://www.coursera.org/learn/machine-learning/home/welcome">Machine Learning by Stanford University</a>
 
 <li>
 	<ul><a href="https://xiongfeng-jin.github.io/Coursera-Machine-Learning/Study%20Note%201.html">study note 1</a></ul>
